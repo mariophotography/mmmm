@@ -1,0 +1,6 @@
+{
+  "name": "Notaría Sexta Riobamba",
+  "description": "Sitio web y plataforma digital de la Notaría Sexta del Cantón Riobamba con servicios notariales, requisitos de trámites, contacto y ubicación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
